@@ -10,7 +10,7 @@ namespace ExemploHeranca___01.classes2
     {
         public DateTime DataNascimento { get; set; }
         public string Raca { get; set; }
-        public void Barulho()
+        public virtual void Barulho()
         {
             Console.WriteLine($"{this.Raca} Fazendo Barulho");
         }

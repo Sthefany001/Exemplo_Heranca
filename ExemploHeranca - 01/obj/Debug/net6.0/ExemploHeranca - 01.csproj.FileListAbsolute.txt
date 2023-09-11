@@ -1,0 +1,15 @@
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\3bim\ExemploHeranca - 01\ExemploHeranca - 01\bin\Debug\net6.0\ExemploHeranca - 01.exe
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\3bim\ExemploHeranca - 01\ExemploHeranca - 01\bin\Debug\net6.0\ExemploHeranca - 01.deps.json
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\3bim\ExemploHeranca - 01\ExemploHeranca - 01\bin\Debug\net6.0\ExemploHeranca - 01.runtimeconfig.json
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\3bim\ExemploHeranca - 01\ExemploHeranca - 01\bin\Debug\net6.0\ExemploHeranca - 01.dll
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\3bim\ExemploHeranca - 01\ExemploHeranca - 01\bin\Debug\net6.0\ExemploHeranca - 01.pdb
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\3bim\ExemploHeranca - 01\ExemploHeranca - 01\obj\Debug\net6.0\ExemploHeranca - 01.csproj.AssemblyReference.cache
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\3bim\ExemploHeranca - 01\ExemploHeranca - 01\obj\Debug\net6.0\ExemploHeranca - 01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\3bim\ExemploHeranca - 01\ExemploHeranca - 01\obj\Debug\net6.0\ExemploHeranca - 01.AssemblyInfoInputs.cache
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\3bim\ExemploHeranca - 01\ExemploHeranca - 01\obj\Debug\net6.0\ExemploHeranca - 01.AssemblyInfo.cs
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\3bim\ExemploHeranca - 01\ExemploHeranca - 01\obj\Debug\net6.0\ExemploHeranca - 01.csproj.CoreCompileInputs.cache
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\3bim\ExemploHeranca - 01\ExemploHeranca - 01\obj\Debug\net6.0\ExemploHeranca - 01.dll
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\3bim\ExemploHeranca - 01\ExemploHeranca - 01\obj\Debug\net6.0\refint\ExemploHeranca - 01.dll
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\3bim\ExemploHeranca - 01\ExemploHeranca - 01\obj\Debug\net6.0\ExemploHeranca - 01.pdb
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\3bim\ExemploHeranca - 01\ExemploHeranca - 01\obj\Debug\net6.0\ExemploHeranca - 01.genruntimeconfig.cache
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\3bim\ExemploHeranca - 01\ExemploHeranca - 01\obj\Debug\net6.0\ref\ExemploHeranca - 01.dll
